@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d1e66b8-d0ac-40cf-8cdc-83b0eb2bb3de" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/about_blocking_scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/about_blocking_scheduler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/about_gevent_scheduler.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/about_gevent_scheduler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,15 +27,6 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="test.log" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test.log">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="303">
-                  <caret line="129" selection-start-line="129" selection-end-line="129" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="about_gevent_scheduler.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/about_gevent_scheduler.py">
               <provider selected="true" editor-type-id="text-editor">
@@ -55,6 +44,15 @@
                   <folding>
                     <element signature="e#0#20#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/requirements.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
@@ -92,10 +90,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="event.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="event.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/event.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="198">
+                <state relative-caret-position="225">
                   <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
                   <folding>
                     <element signature="e#0#9#0" expanded="true" />
@@ -160,6 +158,7 @@
         <option value="$PROJECT_DIR$/src/about_job_store.py" />
         <option value="$PROJECT_DIR$/src/running_mofify.py" />
         <option value="$PROJECT_DIR$/src/event.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -282,16 +281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/about_job_store.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/about_blocking_scheduler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -345,11 +334,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/event.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="225">
           <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/about_job_store.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
